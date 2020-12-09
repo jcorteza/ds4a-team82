@@ -26,6 +26,14 @@ Per Pupil Amounts for Current Spending of Public Elementary-Secondary School Sys
 
 seda_codebook_geodist_v30 - 
 
+### EDGE__ACS_CWIFT2018: Juls
+
+CWIFT Score (Teacher Wage Index)
+CWIFTSE (Standard Error)
+State
+County
+School District (LEA)
+
 ### EDGE_Export_122153919246_Economic Demographics Parents 2014-2018 Data Sets
 
 PDP03.8_202_USSchoolDistrictAll_122153917324 - 
