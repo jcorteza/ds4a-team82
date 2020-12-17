@@ -1,0 +1,49 @@
+GS00SS08
+Per Pupil Amounts for Current Spending of Public Elementary-Secondary School Systems: US and State: 2012 - 2018
+<p><b>Survey/Program:</b> Census of Governments<br>
+<b>Year:</b> 2017 <br>
+<b>Dataset:</b>SS08<br>
+<b>Table Name:</b>Per Pupil Amounts for Current Spending of Public Elementary-Secondary School Systems by State<br>
+<b>Table ID:</b>GS00SS08</p>
+
+<p><b>Release Date:05/21/2019</b></p>
+
+<p><b>Release Schedule:</b></p>
+
+<p>Public elementary-secondary (PK-12) school system finance data is released in May on an annual basis. Revised prior year data is also released each May.</a></i></p>
+
+<p><b>Key Table Information:</b></p>
+
+<p>See Appendix B in the state-level tables files at: https://www.census.gov/programs-surveys/school-finances/data/tables.html for a description of state-specific reporting anomalies. Payments to other school systems are excluded from this table. Expenditures for adult education, community services, and other nonelementary-secondary programs are also excluded. Enrollments used to calculate per pupil amounts represent fall memberships collected by NCES on the CCD agency universe file - "Local Education Agency (School District) Universe Survey." Enrollments for state educational facilities, federal school systems, and charter schools whose charters are held by a nongovernmental entity have been excluded. Enrollments from the CCD agency universe file were subject to adjustment if the enrollments were inconsistent with the finances reported. Annual Survey of School System Finances statistics include the finances of charter schools whose charters are held directly by a government or a government agency. Charter schools whose charters are held by nongovernmental entities are deemed to be out of scope for the Annual Survey of School System Finances.</p>
+
+<p><b>Data Items and Other Identifying Records:</b></p>
+  <li> Elementary-Secondary total current spending per pupil</li>
+  <li> Elementary-Secondary current spending per pupil - All functions - Salaries and wages</li>
+  <li> Elementary-Secondary current spending per pupil - All functions - Employee benefits</li>
+  <li> Elementary-Secondary current spending per pupil - Instruction - Total</li>
+  <li> Elementary-Secondary current spending per pupil - Instruction - Salaries and wages</li>
+  <li> Elementary-Secondary current spending per pupil - Instruction - Employee benefits</li>
+  <li> Elementary-Secondary current spending per pupil - Support services - Total</li>
+  <li> Elementary-Secondary current spending per pupil - Support services - Pupil support</li>
+  <li> Elementary-Secondary current spending per pupil - Support services - Instructional staff support</li>
+  <li> Elementary-Secondary current spending per pupil - Support services - General administration</li>
+  <li> Elementary-Secondary current spending per pupil - Support services - School administration</li>
+  
+<p><b>Geography Coverage:</b></p>
+
+<p>Data are shown for the United States, the 50 states, and the District of Columbia.</a></i></p>
+
+<p><b>Industry Coverage:</b></p>
+
+<p>N/A</p>
+
+<p><b>Footnotes:</b></p>
+
+<p>1. Per pupil amounts for total current spending per pupil, total instruction spending per pupil, and total support services spending per pupil include amounts not shown separately.</p>
+
+<p><b>FTP Download:</b></p>
+
+<p>Download the entire table at:</p>
+
+<p><b>Release Date:</b> 2020-06-30</p>
+
