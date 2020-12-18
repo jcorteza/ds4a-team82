@@ -28,11 +28,13 @@ seda_codebook_geodist_v30 -
 
 ### EDGE__ACS_CWIFT2018: Juls
 
-CWIFT Score (Teacher Wage Index)
-CWIFTSE (Standard Error)
-State
-County
-School District (LEA)
+The CWIFT test measures wage and salary differences for college graduates but with a specific emphasis on teachers. The CWIFT for each location is the predicted wage level for that location divided by the national average predicted wage. 
+
+CWIFT Score (Teacher Wage Index);
+CWIFTSE (Standard Error);
+State;
+County;
+School District (LEA).
 
 ### EDGE_Export_122153919246_Economic Demographics Parents 2014-2018 Data Sets
 
