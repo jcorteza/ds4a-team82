@@ -1,0 +1,19 @@
+{
+    "regions": {
+        "Northeast": ["New England", "Middle Atlantic"],
+        "Midwest": ["East North Central", "West North Central"],
+        "South": ["South Atlantic", "East South Central", "West South Central"],
+        "West": ["Mountain", "Pacific"]
+    },
+    "divisions": {
+        "New England": ["CT", "ME", "MA", "NH", "RI", "VT"],
+        "Middle Atlantic": ["NJ", "NY", "PA"],
+        "East North Central": ["IN", "IL", "MI", "OH", "WI"],
+        "West North Central": ["IA", "KS", "MN", "MO", "NE", "ND", "SD"],
+        "South Atlantic": ["DE", "DC", "FL", "GA", "MD", "NC", "SC", "VA", "WV"],
+        "East South Central": ["AL", "KY", "MS", "TN"],
+        "West South Central": ["AR", "LA", "OK", "TX"],
+        "Mountain": ["AZ", "CO", "ID", "NM", "MT", "UT", "NV", "WY"],
+        "Pacific": ["AK", "CA", "HI", "OR", "TX", "WA"]
+    }
+}
